@@ -1,5 +1,5 @@
 def fib():
-    n=int(input("Enter number of terms"))
+    n=int(input("Enter number of terms to input"))
     n1,n2=0,1
     print("Fibonacci series: ",n1,n2,end=" ")
     for i in range(2,n):
